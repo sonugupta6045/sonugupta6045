@@ -73,10 +73,10 @@ I'm Sonu Gupta from Mumbai, India 🇮🇳
 
 <h3 align="center">Let's Connect & Collaborate 🚀</h3>
 <p align="center">
-  <a href="mailto:guptasonuofficial@gmail.com">
+  <a href="mailto:sonugupta6045@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/gupta-sonu">
+  <a href="https://github.com/sonugupta6045">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://portfolio.guptasonu.dev">
